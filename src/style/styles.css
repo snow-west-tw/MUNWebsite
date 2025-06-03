@@ -22,6 +22,10 @@ main {
 section {
     margin-bottom: 2rem;
 }
+h1{
+    font-size: 30px;
+    color: #00274d;
+}
 h1, h2, h3 {
     color: #00274d;
 }
@@ -53,7 +57,7 @@ footer {
 #ig{
     background-color: white;
     margin-left: 10px;
-    
+
 }
 #ig:hover{
     background-color:black;
