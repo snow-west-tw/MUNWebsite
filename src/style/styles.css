@@ -55,10 +55,12 @@ footer {
 }
 
 #ig{
-    background-color: white;
-    margin-left: 10px;
-
+    background :linear-gradient(to right, #bcc9d6, #dfde9ee4) no-repeat right bottom;
+    background-size: 0 5px;
+    margin-left: 20px;
+    transition: background-size 1s ease-in-out;
 }
 #ig:hover{
-    background-color:black;
+    background-position: left bottom;
+    background-size: 100% 5px;
 }
